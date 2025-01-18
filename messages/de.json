@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "Hello de!",
+      "about": "Go to the about page",
+      "root": "Go to the root page"
+    },
+    "LocaleSwitcher": {
+      "label": "Sprache ändern",
+      "locale": "{locale, select, ja {日本語} es {Español} zh {🇨🇳 Chinese} en {🇺🇸 English} de {🇩🇪 Deutsch} other {Unknown}}"
+    }
+  }

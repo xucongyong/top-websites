@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "你好 开发者!",
+      "about": "Go to the about 页面",
+      "root": "Go to the root 页面"
+    },
+    "LocaleSwitcher": {
+      "label": "Change language",
+      "locale": "{locale, select, ja {日本語} es {Español} zh {🇨🇳 Chinese} en {🇺🇸 English} de {🇩🇪 Deutsch} other {Unknown}}"
+    }
+  }

@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "Hello developer!",
+      "about": "Go to the about page",
+      "root": "Go to the root page"
+    },
+    "LocaleSwitcher": {
+      "label": "Sprache ändern",
+      "locale": "{locale, select, ja {日本語} es {Español}  de {🇩🇪 Deutsch} zh {🇨🇳 Chinese} en {🇺🇸 English} other {Unknown}}"
+    }
+  }
