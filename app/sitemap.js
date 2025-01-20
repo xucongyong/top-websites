@@ -5,7 +5,7 @@ export default async function sitemap() {
     var sitemap_data =[]
     
     //articles sitemap
-    var locales = ['en', 'de', 'zh']
+    var locales = ['en']
     var pages=[]
     const categories = {
       "all": "",
