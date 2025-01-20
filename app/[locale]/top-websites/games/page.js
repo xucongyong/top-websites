@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top games Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','games'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9929,86 +9933,6 @@ export default function TopWebsite() {
       "curr_month_visits": 3318671.09674643,
       "unique_users": 874109.035120193,
       "pages_per_visit": 2.17420885196003
-    },
-    {
-      "global_rank": 6640,
-      "category_rank": 200,
-      "domain": "limestart.cn",
-      "category": "Games/Video_Games_Consoles_and_Accessories",
-      "avg_month_visits": 18605227.2795141,
-      "curr_month_visits": 18605227.2795141,
-      "unique_users": 1110990.00275021,
-      "pages_per_visit": 1.43086799137822
-    },
-    {
-      "global_rank": 180905,
-      "category_rank": 200,
-      "domain": "searchle.net",
-      "category": "Games/Puzzles_and_Brainteasers",
-      "avg_month_visits": 397523.777092292,
-      "curr_month_visits": 397523.777092292,
-      "unique_users": 85893.3535924572,
-      "pages_per_visit": 1.88458690507966
-    },
-    {
-      "global_rank": 137633,
-      "category_rank": 200,
-      "domain": "onepagerules.com",
-      "category": "Games/Board_and_Card_Games",
-      "avg_month_visits": 324191.048305899,
-      "curr_month_visits": 324191.048305899,
-      "unique_users": 111769.617288283,
-      "pages_per_visit": 4.28605031173237
-    },
-    {
-      "global_rank": 181726,
-      "category_rank": 201,
-      "domain": "crosswordnexus.com",
-      "category": "Games/Puzzles_and_Brainteasers",
-      "avg_month_visits": 326766.392021228,
-      "curr_month_visits": 326766.392021228,
-      "unique_users": 128009.996476415,
-      "pages_per_visit": 2.93117280471828
-    },
-    {
-      "global_rank": 139296,
-      "category_rank": 201,
-      "domain": "wizkids.com",
-      "category": "Games/Board_and_Card_Games",
-      "avg_month_visits": 321673.745651709,
-      "curr_month_visits": 321673.745651709,
-      "unique_users": 154047.781271234,
-      "pages_per_visit": 4.1793052618179
-    },
-    {
-      "global_rank": 31540,
-      "category_rank": 201,
-      "domain": "snokido.com",
-      "category": "Games/Games",
-      "avg_month_visits": 1742300.81559143,
-      "curr_month_visits": 1742300.81559143,
-      "unique_users": 601489.571465849,
-      "pages_per_visit": 4.21079601899236
-    },
-    {
-      "global_rank": 248170,
-      "category_rank": 201,
-      "domain": "calimacil.com",
-      "category": "Games/Roleplaying_Games",
-      "avg_month_visits": 117463.192280751,
-      "curr_month_visits": 117463.192280751,
-      "unique_users": 57782.5524811758,
-      "pages_per_visit": 6.04030096913677
-    },
-    {
-      "global_rank": 6643,
-      "category_rank": 201,
-      "domain": "gamestar.de",
-      "category": "Games/Video_Games_Consoles_and_Accessories",
-      "avg_month_visits": 12953854.7410451,
-      "curr_month_visits": 12953854.7410451,
-      "unique_users": 4295040.3838104,
-      "pages_per_visit": 2.10820948203455
     }
   ]
   

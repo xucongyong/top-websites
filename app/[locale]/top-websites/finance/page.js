@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Finance Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Finance'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9919,96 +9922,6 @@ export default function TopWebsite() {
       "curr_month_visits": 602141.271075296,
       "unique_users": 221672.781431032,
       "pages_per_visit": 7.25088205815301
-    },
-    {
-      "global_rank": 14290,
-      "category_rank": 166,
-      "domain": "invertironline.com",
-      "category": "Finance/Financial_Planning_and_Management",
-      "avg_month_visits": 3502695.86159618,
-      "curr_month_visits": 3502695.86159618,
-      "unique_users": 692305.806548819,
-      "pages_per_visit": 7.85656772463006
-    },
-    {
-      "global_rank": 8989,
-      "category_rank": 166,
-      "domain": "bkiconnect.com",
-      "category": "Finance/Banking_Credit_and_Lending",
-      "avg_month_visits": 6513929.89661796,
-      "curr_month_visits": 6513929.89661796,
-      "unique_users": 3393917.79791395,
-      "pages_per_visit": 4.03577469639754
-    },
-    {
-      "global_rank": 12063,
-      "category_rank": 166,
-      "domain": "morganstanley.com",
-      "category": "Finance/Investing",
-      "avg_month_visits": 5417891.63316402,
-      "curr_month_visits": 5417891.63316402,
-      "unique_users": 1847367.25308951,
-      "pages_per_visit": 3.61922836104089
-    },
-    {
-      "global_rank": 14309,
-      "category_rank": 167,
-      "domain": "vpass.ne.jp",
-      "category": "Finance/Financial_Planning_and_Management",
-      "avg_month_visits": 3954956.89941593,
-      "curr_month_visits": 3954956.89941593,
-      "unique_users": 1694149.3991179,
-      "pages_per_visit": 4.75249368403372
-    },
-    {
-      "global_rank": 82615,
-      "category_rank": 167,
-      "domain": "smart-rechner.de",
-      "category": "Finance/Accounting_and_Auditing",
-      "avg_month_visits": 994191.979959465,
-      "curr_month_visits": 994191.979959465,
-      "unique_users": 752684.071095299,
-      "pages_per_visit": 1.41641593580279
-    },
-    {
-      "global_rank": 36104,
-      "category_rank": 167,
-      "domain": "carefirst.com",
-      "category": "Finance/Insurance",
-      "avg_month_visits": 984149.586197452,
-      "curr_month_visits": 984149.586197452,
-      "unique_users": 424706.529458296,
-      "pages_per_visit": 8.75393938595643
-    },
-    {
-      "global_rank": 9039,
-      "category_rank": 167,
-      "domain": "tangerine.ca",
-      "category": "Finance/Banking_Credit_and_Lending",
-      "avg_month_visits": 5182953.38947759,
-      "curr_month_visits": 5182953.38947759,
-      "unique_users": 1477006.4269004,
-      "pages_per_visit": 7.25697287270441
-    },
-    {
-      "global_rank": 12834,
-      "category_rank": 167,
-      "domain": "skrill.com",
-      "category": "Finance/Finance",
-      "avg_month_visits": 4064335.69918349,
-      "curr_month_visits": 4064335.69918349,
-      "unique_users": 1594298.82771833,
-      "pages_per_visit": 5.42462433773803
-    },
-    {
-      "global_rank": 12092,
-      "category_rank": 167,
-      "domain": "treasurydirect.gov",
-      "category": "Finance/Investing",
-      "avg_month_visits": 3576645.83331396,
-      "curr_month_visits": 3576645.83331396,
-      "unique_users": 1933694.04292408,
-      "pages_per_visit": 7.45780197306089
     }
   ]
   

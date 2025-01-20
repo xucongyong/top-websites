@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Science and Education Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Science and Education'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9980,36 +9984,6 @@ export default function TopWebsite() {
       "unique_users": 5059.74252169695,
       "pages_per_visit": 2.3044037601935
     },
-    {
-      "global_rank": 23262,
-      "category_rank": 93,
-      "domain": "linternaute.fr",
-      "category": "Science_and_Education/Literature",
-      "avg_month_visits": 3521223.06338729,
-      "curr_month_visits": 3521223.06338729,
-      "unique_users": 2273817.65729038,
-      "pages_per_visit": 1.66885608735805
-    },
-    {
-      "global_rank": 10046,
-      "category_rank": 93,
-      "domain": "paginegialle.it",
-      "category": "Science_and_Education/History",
-      "avg_month_visits": 7615772.87296471,
-      "curr_month_visits": 7615772.87296471,
-      "unique_users": 5564101.85901151,
-      "pages_per_visit": 2.20612292647747
-    },
-    {
-      "global_rank": 366156,
-      "category_rank": 93,
-      "domain": "explorescientific.com",
-      "category": "Science_and_Education/Biology",
-      "avg_month_visits": 84607.7563554838,
-      "curr_month_visits": 84607.7563554838,
-      "unique_users": 37957.980303154,
-      "pages_per_visit": 3.60420130670864
-    }
   ]
   
   const formatVisits = (visits) => {

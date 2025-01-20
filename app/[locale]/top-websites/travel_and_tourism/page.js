@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Travel and Tourism Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Travel and Tourism'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9989,26 +9992,6 @@ export default function TopWebsite() {
       "curr_month_visits": 447641.208655238,
       "unique_users": 201120.531182235,
       "pages_per_visit": 2.91150972423216
-    },
-    {
-      "global_rank": 183423,
-      "category_rank": 144,
-      "domain": "imoova.com",
-      "category": "Travel_and_Tourism/Car_Rentals",
-      "avg_month_visits": 260253.631236895,
-      "curr_month_visits": 260253.631236895,
-      "unique_users": 115969.260193906,
-      "pages_per_visit": 3.45600055756027
-    },
-    {
-      "global_rank": 616371,
-      "category_rank": 144,
-      "domain": "aquaparknsk.ru",
-      "category": "Travel_and_Tourism/Transportation_and_Excursions",
-      "avg_month_visits": 73762.1389871549,
-      "curr_month_visits": 73762.1389871549,
-      "unique_users": 42032.8171204655,
-      "pages_per_visit": 2.10856396806348
     }
   ]
   

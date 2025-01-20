@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top computers electronics and technology Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','computers electronics and technology'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9919,96 +9923,6 @@ export default function TopWebsite() {
       "curr_month_visits": 23666019.0406417,
       "unique_users": 6029741.68263596,
       "pages_per_visit": 4.59016191014966
-    },
-    {
-      "global_rank": 2768,
-      "category_rank": 77,
-      "domain": "coinmastergame.com",
-      "category": "Computers_Electronics_and_Technology/Search_Engines",
-      "avg_month_visits": 12949636.7250974,
-      "curr_month_visits": 12949636.7250974,
-      "unique_users": 2412523.72924651,
-      "pages_per_visit": 1.75564040924522
-    },
-    {
-      "global_rank": 54550,
-      "category_rank": 77,
-      "domain": "monetag.com",
-      "category": "Computers_Electronics_and_Technology/Advertising_Networks",
-      "avg_month_visits": 1109058.51593203,
-      "curr_month_visits": 1109058.51593203,
-      "unique_users": 240553.495569502,
-      "pages_per_visit": 6.0458950089056
-    },
-    {
-      "global_rank": 1964,
-      "category_rank": 77,
-      "domain": "habr.com",
-      "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
-      "avg_month_visits": 41336507.6663711,
-      "curr_month_visits": 41336507.6663711,
-      "unique_users": 13726541.8404686,
-      "pages_per_visit": 2.07935490517558
-    },
-    {
-      "global_rank": 7625,
-      "category_rank": 77,
-      "domain": "juno.com",
-      "category": "Computers_Electronics_and_Technology/Telecommunications",
-      "avg_month_visits": 8547586.74888132,
-      "curr_month_visits": 8547586.74888132,
-      "unique_users": 363062.600449347,
-      "pages_per_visit": 6.21547798580822
-    },
-    {
-      "global_rank": 7613,
-      "category_rank": 77,
-      "domain": "oneplus.com",
-      "category": "Computers_Electronics_and_Technology/Consumer_Electronics",
-      "avg_month_visits": 8235896.49216479,
-      "curr_month_visits": 8235896.49216479,
-      "unique_users": 4928567.61650554,
-      "pages_per_visit": 3.13090615199006
-    },
-    {
-      "global_rank": 55240,
-      "category_rank": 78,
-      "domain": "poop.pm",
-      "category": "Computers_Electronics_and_Technology/Advertising_Networks",
-      "avg_month_visits": 5872486.98929178,
-      "curr_month_visits": 5872486.98929178,
-      "unique_users": 2618300.49763808,
-      "pages_per_visit": 17.1304966233501
-    },
-    {
-      "global_rank": 2607,
-      "category_rank": 78,
-      "domain": "oracle.com",
-      "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
-      "avg_month_visits": 19065539.0365077,
-      "curr_month_visits": 19065539.0365077,
-      "unique_users": 7596989.18521312,
-      "pages_per_visit": 5.81468091789391
-    },
-    {
-      "global_rank": 9085,
-      "category_rank": 78,
-      "domain": "espacioapk.com",
-      "category": "Computers_Electronics_and_Technology/File_Sharing_and_Hosting",
-      "avg_month_visits": 5365372.43930493,
-      "curr_month_visits": 5365372.43930493,
-      "unique_users": 2391571.45480595,
-      "pages_per_visit": 4.49961010571667
-    },
-    {
-      "global_rank": 7692,
-      "category_rank": 78,
-      "domain": "brother.com",
-      "category": "Computers_Electronics_and_Technology/Consumer_Electronics",
-      "avg_month_visits": 7532689.19845215,
-      "curr_month_visits": 7532689.19845215,
-      "unique_users": 4924808.61193537,
-      "pages_per_visit": 4.10736966519654
     }
   ]
   

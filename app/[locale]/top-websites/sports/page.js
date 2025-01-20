@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top sports Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','sports'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9980,36 +9984,7 @@ export default function TopWebsite() {
       "unique_users": 219675.654921983,
       "pages_per_visit": 4.07332581220567
     },
-    {
-      "global_rank": 121373,
-      "category_rank": 92,
-      "domain": "mmastreams100.com",
-      "category": "Sports/Martial_Arts",
-      "avg_month_visits": 406141.293819633,
-      "curr_month_visits": 406141.293819633,
-      "unique_users": 188744.362327685,
-      "pages_per_visit": 1.84566883963339
-    },
-    {
-      "global_rank": 1041772,
-      "category_rank": 93,
-      "domain": "thk.org.tr",
-      "category": "Sports/Fishing",
-      "avg_month_visits": 25875.2208411133,
-      "curr_month_visits": 25875.2208411133,
-      "unique_users": 15498.3967621898,
-      "pages_per_visit": 2.15707024085098
-    },
-    {
-      "global_rank": 310946,
-      "category_rank": 93,
-      "domain": "themagic5.com",
-      "category": "Sports/Water_Sports",
-      "avg_month_visits": 116624.86588724,
-      "curr_month_visits": 116624.86588724,
-      "unique_users": 55260.4879708414,
-      "pages_per_visit": 2.43431312500986
-    }
+    
   ]
   
   const formatVisits = (visits) => {

@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top law and government Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','law and government'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9860,156 +9864,6 @@ export default function TopWebsite() {
       "unique_users": 167151.802140158,
       "pages_per_visit": 3.06234196551603
     },
-    {
-      "global_rank": 36098,
-      "category_rank": 167,
-      "domain": "ancpi.ro",
-      "category": "Law_and_Government/Legal",
-      "avg_month_visits": 1549293.42643805,
-      "curr_month_visits": 1549293.42643805,
-      "unique_users": 304690.65426826,
-      "pages_per_visit": 7.37431293233828
-    },
-    {
-      "global_rank": 67405,
-      "category_rank": 167,
-      "domain": "wagingnonviolence.org",
-      "category": "Law_and_Government/Law_and_Government",
-      "avg_month_visits": 420399.052320601,
-      "curr_month_visits": 420399.052320601,
-      "unique_users": 215619.096134827,
-      "pages_per_visit": 1.71838160029956
-    },
-    {
-      "global_rank": 1171152,
-      "category_rank": 167,
-      "domain": "ncjrs.gov",
-      "category": "Law_and_Government/Law_Enforcement_and_Protective_Services",
-      "avg_month_visits": 24525.0131828323,
-      "curr_month_visits": 24525.0131828323,
-      "unique_users": 15928.4920664716,
-      "pages_per_visit": 1.27474072930867
-    },
-    {
-      "global_rank": 6094,
-      "category_rank": 167,
-      "domain": "mt.gov.br",
-      "category": "Law_and_Government/Government",
-      "avg_month_visits": 8611059.7600778,
-      "curr_month_visits": 8611059.7600778,
-      "unique_users": 1795309.10958368,
-      "pages_per_visit": 7.62334415887636
-    },
-    {
-      "global_rank": 726513,
-      "category_rank": 168,
-      "domain": "malakoutilaw.com",
-      "category": "Law_and_Government/Immigration_and_Visas",
-      "avg_month_visits": 34143.8957094673,
-      "curr_month_visits": 34143.8957094673,
-      "unique_users": 18813.8123820763,
-      "pages_per_visit": 1.42409525638399
-    },
-    {
-      "global_rank": 6116,
-      "category_rank": 168,
-      "domain": "gov.uz",
-      "category": "Law_and_Government/Government",
-      "avg_month_visits": 8146428.65272807,
-      "curr_month_visits": 8146428.65272807,
-      "unique_users": 2018624.73712298,
-      "pages_per_visit": 9.34132758594281
-    },
-    {
-      "global_rank": 67679,
-      "category_rank": 168,
-      "domain": "ung.no",
-      "category": "Law_and_Government/Law_and_Government",
-      "avg_month_visits": 828001.629555097,
-      "curr_month_visits": 828001.629555097,
-      "unique_users": 509905.179421032,
-      "pages_per_visit": 2.44646694085557
-    },
-    {
-      "global_rank": 163812,
-      "category_rank": 168,
-      "domain": "itc.gov.ae",
-      "category": "Law_and_Government/National_Security",
-      "avg_month_visits": 253868.176746149,
-      "curr_month_visits": 253868.176746149,
-      "unique_users": 98725.9732263569,
-      "pages_per_visit": 4.50191176955878
-    },
-    {
-      "global_rank": 36394,
-      "category_rank": 168,
-      "domain": "lto.de",
-      "category": "Law_and_Government/Legal",
-      "avg_month_visits": 1910301.99813161,
-      "curr_month_visits": 1910301.99813161,
-      "unique_users": 976603.411592758,
-      "pages_per_visit": 1.75074186728314
-    },
-    {
-      "global_rank": 6182,
-      "category_rank": 169,
-      "domain": "mahadiscom.in",
-      "category": "Law_and_Government/Government",
-      "avg_month_visits": 6937312.26757947,
-      "curr_month_visits": 6937312.26757947,
-      "unique_users": 2572502.16937673,
-      "pages_per_visit": 8.20684748020936
-    },
-    {
-      "global_rank": 67720,
-      "category_rank": 169,
-      "domain": "portalempleo.gob.ar",
-      "category": "Law_and_Government/Law_and_Government",
-      "avg_month_visits": 504345.970364543,
-      "curr_month_visits": 504345.970364543,
-      "unique_users": 157273.750939954,
-      "pages_per_visit": 11.7509021707185
-    },
-    {
-      "global_rank": 1179612,
-      "category_rank": 169,
-      "domain": "offenderwatch.com",
-      "category": "Law_and_Government/Law_Enforcement_and_Protective_Services",
-      "avg_month_visits": 30553.4174269746,
-      "curr_month_visits": 30553.4174269746,
-      "unique_users": 20331.6775860634,
-      "pages_per_visit": 1.87963825513806
-    },
-    {
-      "global_rank": 36532,
-      "category_rank": 169,
-      "domain": "trt5.jus.br",
-      "category": "Law_and_Government/Legal",
-      "avg_month_visits": 1241355.57842795,
-      "curr_month_visits": 1241355.57842795,
-      "unique_users": 228116.24586131,
-      "pages_per_visit": 9.85612637635802
-    },
-    {
-      "global_rank": 164500,
-      "category_rank": 169,
-      "domain": "fedsmith.com",
-      "category": "Law_and_Government/National_Security",
-      "avg_month_visits": 327973.708125135,
-      "curr_month_visits": 327973.708125135,
-      "unique_users": 157183.252622944,
-      "pages_per_visit": 1.68144161296979
-    },
-    {
-      "global_rank": 729556,
-      "category_rank": 169,
-      "domain": "immigcanada.com",
-      "category": "Law_and_Government/Immigration_and_Visas",
-      "avg_month_visits": 66971.5874221691,
-      "curr_month_visits": 66971.5874221691,
-      "unique_users": 32901.0484890069,
-      "pages_per_visit": 1.56042053285558
-    }
   ]
   
   const formatVisits = (visits) => {

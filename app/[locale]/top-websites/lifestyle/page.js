@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top lifestyle Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','lifestyle'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9979,36 +9982,6 @@ export default function TopWebsite() {
       "curr_month_visits": 308640.488017888,
       "unique_users": 211396.917977023,
       "pages_per_visit": 2.18572835099123
-    },
-    {
-      "global_rank": 22635,
-      "category_rank": 150,
-      "domain": "shop.luvmehair.com",
-      "category": "Lifestyle/Beauty_and_Cosmetics",
-      "avg_month_visits": 2247134.00665156,
-      "curr_month_visits": 2247134.00665156,
-      "unique_users": 895851.627576258,
-      "pages_per_visit": 4.46746500648382
-    },
-    {
-      "global_rank": 59258,
-      "category_rank": 150,
-      "domain": "firemountaingems.com",
-      "category": "Lifestyle/Jewelry_and_Luxury_Products",
-      "avg_month_visits": 592957.0281979,
-      "curr_month_visits": 592957.0281979,
-      "unique_users": 286851.842882779,
-      "pages_per_visit": 7.47512836665395
-    },
-    {
-      "global_rank": 286093,
-      "category_rank": 150,
-      "domain": "havanahouse.co.uk",
-      "category": "Lifestyle/Tobacco",
-      "avg_month_visits": 142401.120920727,
-      "curr_month_visits": 142401.120920727,
-      "unique_users": 77940.7117231609,
-      "pages_per_visit": 2.98182907263812
     }
   ]
   

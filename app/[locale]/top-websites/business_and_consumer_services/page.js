@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top business and consumer services Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','business and consumer services'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9899,116 +9902,6 @@ export default function TopWebsite() {
       "curr_month_visits": 592016.51548609,
       "unique_users": 378654.202553764,
       "pages_per_visit": 1.71824474234127
-    },
-    {
-      "global_rank": 109865,
-      "category_rank": 111,
-      "domain": "bookroo.com",
-      "category": "Business_and_Consumer_Services/Business_and_Consumer_Services",
-      "avg_month_visits": 712497.423193543,
-      "curr_month_visits": 712497.423193543,
-      "unique_users": 481545.881849593,
-      "pages_per_visit": 1.53514700317661
-    },
-    {
-      "global_rank": 30670,
-      "category_rank": 111,
-      "domain": "adscale.de",
-      "category": "Business_and_Consumer_Services/Marketing_and_Advertising",
-      "avg_month_visits": 784615.877150862,
-      "curr_month_visits": 784615.877150862,
-      "unique_users": 103810.192940228,
-      "pages_per_visit": 8.82699005777099
-    },
-    {
-      "global_rank": 21150,
-      "category_rank": 111,
-      "domain": "fareye.co",
-      "category": "Business_and_Consumer_Services/Shipping_and_Logistics",
-      "avg_month_visits": 3521491.97813052,
-      "curr_month_visits": 3521491.97813052,
-      "unique_users": 1062265.33394788,
-      "pages_per_visit": 4.54150741967175
-    },
-    {
-      "global_rank": 66294,
-      "category_rank": 111,
-      "domain": "digistore24-app.com",
-      "category": "Business_and_Consumer_Services/Online_Marketing",
-      "avg_month_visits": 764332.178823998,
-      "curr_month_visits": 764332.178823998,
-      "unique_users": 158909.408880367,
-      "pages_per_visit": 5.06423276410385
-    },
-    {
-      "global_rank": 21560,
-      "category_rank": 112,
-      "domain": "imile.com",
-      "category": "Business_and_Consumer_Services/Shipping_and_Logistics",
-      "avg_month_visits": 3119024.54167529,
-      "curr_month_visits": 3119024.54167529,
-      "unique_users": 906430.646891631,
-      "pages_per_visit": 3.79472908420424
-    },
-    {
-      "global_rank": 66495,
-      "category_rank": 112,
-      "domain": "howly.com",
-      "category": "Business_and_Consumer_Services/Online_Marketing",
-      "avg_month_visits": 958751.550859201,
-      "curr_month_visits": 958751.550859201,
-      "unique_users": 678155.34993995,
-      "pages_per_visit": 2.69029897774917
-    },
-    {
-      "global_rank": 110635,
-      "category_rank": 112,
-      "domain": "office-discount.at",
-      "category": "Business_and_Consumer_Services/Business_and_Consumer_Services",
-      "avg_month_visits": 279132.847236853,
-      "curr_month_visits": 279132.847236853,
-      "unique_users": 181907.60478787,
-      "pages_per_visit": 7.85642031310972
-    },
-    {
-      "global_rank": 1038347,
-      "category_rank": 112,
-      "domain": "meatheadmovers.com",
-      "category": "Business_and_Consumer_Services/Relocation_and_Household_Moving",
-      "avg_month_visits": 32701.189101473,
-      "curr_month_visits": 32701.189101473,
-      "unique_users": 19816.905100388,
-      "pages_per_visit": 1.65517340576321
-    },
-    {
-      "global_rank": 18436,
-      "category_rank": 112,
-      "domain": "p2pb2b.com",
-      "category": "Business_and_Consumer_Services/Business_Services",
-      "avg_month_visits": 8049534.19074131,
-      "curr_month_visits": 8049534.19074131,
-      "unique_users": 3616000.89239296,
-      "pages_per_visit": 2.04517598844429
-    },
-    {
-      "global_rank": 16151,
-      "category_rank": 112,
-      "domain": "skyslope.com",
-      "category": "Business_and_Consumer_Services/Real_Estate",
-      "avg_month_visits": 3077141.78993348,
-      "curr_month_visits": 3077141.78993348,
-      "unique_users": 542918.480576798,
-      "pages_per_visit": 9.18850509831307
-    },
-    {
-      "global_rank": 112768,
-      "category_rank": 112,
-      "domain": "mad.es",
-      "category": "Business_and_Consumer_Services/Publishing_and_Printing",
-      "avg_month_visits": 321702.145767515,
-      "curr_month_visits": 321702.145767515,
-      "unique_users": 130202.771376838,
-      "pages_per_visit": 5.80199642805221
     }
   ]
 

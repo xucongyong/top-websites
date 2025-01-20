@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top health Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','health'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9929,86 +9932,6 @@ export default function TopWebsite() {
       "curr_month_visits": 205356.205333858,
       "unique_users": 117419.039490277,
       "pages_per_visit": 2.35177749773696
-    },
-    {
-      "global_rank": 236091,
-      "category_rank": 63,
-      "domain": "pflegia.de",
-      "category": "Health/Geriatric_and_Aging_Care",
-      "avg_month_visits": 194069.628830695,
-      "curr_month_visits": 194069.628830695,
-      "unique_users": 103163.079081122,
-      "pages_per_visit": 3.64471115254272
-    },
-    {
-      "global_rank": 38605,
-      "category_rank": 63,
-      "domain": "tipness.co.jp",
-      "category": "Health/Nutrition_Diets_and_Fitness",
-      "avg_month_visits": 1686160.81962169,
-      "curr_month_visits": 1686160.81962169,
-      "unique_users": 638437.641768673,
-      "pages_per_visit": 3.83362860613163
-    },
-    {
-      "global_rank": 564238,
-      "category_rank": 63,
-      "domain": "umpuniversity.com",
-      "category": "Health/Mens_Health",
-      "avg_month_visits": 34013.3928020308,
-      "curr_month_visits": 34013.3928020308,
-      "unique_users": 8187.56205217584,
-      "pages_per_visit": 9.80712602010462
-    },
-    {
-      "global_rank": 7323,
-      "category_rank": 63,
-      "domain": "baby-calendar.jp",
-      "category": "Health/Health",
-      "avg_month_visits": 5406248.26004833,
-      "curr_month_visits": 5406248.26004833,
-      "unique_users": 2518801.76048338,
-      "pages_per_visit": 8.02928274298368
-    },
-    {
-      "global_rank": 133821,
-      "category_rank": 63,
-      "domain": "shionogi-hc.co.jp",
-      "category": "Health/Biotechnology_and_Pharmaceuticals",
-      "avg_month_visits": 540707.003305002,
-      "curr_month_visits": 540707.003305002,
-      "unique_users": 449424.015637156,
-      "pages_per_visit": 1.60839197360182
-    },
-    {
-      "global_rank": 340508,
-      "category_rank": 63,
-      "domain": "aiasmilano.it",
-      "category": "Health/Developmental_and_Physical_Disabilities",
-      "avg_month_visits": 22387.4192068586,
-      "curr_month_visits": 22387.4192068586,
-      "unique_users": 7775.27426024972,
-      "pages_per_visit": 57.6539521099032
-    },
-    {
-      "global_rank": 69463,
-      "category_rank": 63,
-      "domain": "psychologos.ru",
-      "category": "Health/Mental_Health",
-      "avg_month_visits": 876145.051241338,
-      "curr_month_visits": 876145.051241338,
-      "unique_users": 434683.060182434,
-      "pages_per_visit": 1.96070924996022
-    },
-    {
-      "global_rank": 148296,
-      "category_rank": 63,
-      "domain": "telemedi.com",
-      "category": "Health/Public_Health_and_Safety",
-      "avg_month_visits": 392736.274931973,
-      "curr_month_visits": 392736.274931973,
-      "unique_users": 225397.37411855,
-      "pages_per_visit": 2.43399610386976
     }
   ]
   

@@ -2,10 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top gambling Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','gambling'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
 
 export default function TopWebsite() {
 
@@ -9889,126 +9892,6 @@ export default function TopWebsite() {
       "curr_month_visits": 1009418.04789134,
       "unique_users": 108813.693862154,
       "pages_per_visit": 9.60392452078501
-    },
-    {
-      "global_rank": 391999,
-      "category_rank": 168,
-      "domain": "backgammonstudio.com",
-      "category": "Gambling/Poker",
-      "avg_month_visits": 112831.532299848,
-      "curr_month_visits": 112831.532299848,
-      "unique_users": 25131.1383548624,
-      "pages_per_visit": 2.32756738864021
-    },
-    {
-      "global_rank": 392008,
-      "category_rank": 169,
-      "domain": "ggpoker.de",
-      "category": "Gambling/Poker",
-      "avg_month_visits": 102513.729019819,
-      "curr_month_visits": 102513.729019819,
-      "unique_users": 59479.9554326889,
-      "pages_per_visit": 2.31326374191226
-    },
-    {
-      "global_rank": 30343,
-      "category_rank": 169,
-      "domain": "check4d.org",
-      "category": "Gambling/Lottery",
-      "avg_month_visits": 2919557.07030461,
-      "curr_month_visits": 2919557.07030461,
-      "unique_users": 511899.683378216,
-      "pages_per_visit": 1.68770874319712
-    },
-    {
-      "global_rank": 43161,
-      "category_rank": 169,
-      "domain": "casumo.com",
-      "category": "Gambling/Casinos",
-      "avg_month_visits": 916957.051698188,
-      "curr_month_visits": 916957.051698188,
-      "unique_users": 242689.709919307,
-      "pages_per_visit": 8.60325880208541
-    },
-    {
-      "global_rank": 9453,
-      "category_rank": 169,
-      "domain": "pagol.bet",
-      "category": "Gambling/Sports_Betting",
-      "avg_month_visits": 7021934.79211347,
-      "curr_month_visits": 7021934.79211347,
-      "unique_users": 922422.065635134,
-      "pages_per_visit": 4.72479268188376
-    },
-    {
-      "global_rank": 49600,
-      "category_rank": 169,
-      "domain": "nyxop.net",
-      "category": "Gambling/Gambling",
-      "avg_month_visits": 1574214.81028358,
-      "curr_month_visits": 1574214.81028358,
-      "unique_users": 386356.238335616,
-      "pages_per_visit": 2.99682009137558
-    },
-    {
-      "global_rank": 30364,
-      "category_rank": 170,
-      "domain": "secretsdujeu.com",
-      "category": "Gambling/Lottery",
-      "avg_month_visits": 2592260.58312466,
-      "curr_month_visits": 2592260.58312466,
-      "unique_users": 459839.696717772,
-      "pages_per_visit": 2.02208827138716
-    },
-    {
-      "global_rank": 393378,
-      "category_rank": 170,
-      "domain": "upg-elearning.ro",
-      "category": "Gambling/Poker",
-      "avg_month_visits": 36412.9328771933,
-      "curr_month_visits": 36412.9328771933,
-      "unique_users": 8861.47860032327,
-      "pages_per_visit": 9.73130601443387
-    },
-    {
-      "global_rank": 9497,
-      "category_rank": 170,
-      "domain": "kto.com",
-      "category": "Gambling/Sports_Betting",
-      "avg_month_visits": 9654361.93107163,
-      "curr_month_visits": 9654361.93107163,
-      "unique_users": 2346150.08324021,
-      "pages_per_visit": 3.4527626869153
-    },
-    {
-      "global_rank": 1090165,
-      "category_rank": 170,
-      "domain": "nottinghamcityhomes.org.uk",
-      "category": "Gambling/Bingo",
-      "avg_month_visits": 36422.1943949517,
-      "curr_month_visits": 36422.1943949517,
-      "unique_users": 15624.2756245301,
-      "pages_per_visit": 7.33011690697587
-    },
-    {
-      "global_rank": 43260,
-      "category_rank": 170,
-      "domain": "bitspinwin.co",
-      "category": "Gambling/Casinos",
-      "avg_month_visits": 1146423.41217419,
-      "curr_month_visits": 1146423.41217419,
-      "unique_users": 190865.044343145,
-      "pages_per_visit": 6.4095408459209
-    },
-    {
-      "global_rank": 50287,
-      "category_rank": 170,
-      "domain": "dejugadas.com",
-      "category": "Gambling/Gambling",
-      "avg_month_visits": 1976566.61577724,
-      "curr_month_visits": 1976566.61577724,
-      "unique_users": 65736.8996964441,
-      "pages_per_visit": 2.13059462603226
     }
   ]
   

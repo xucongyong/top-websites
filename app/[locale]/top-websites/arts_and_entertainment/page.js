@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top arts and Entertainment Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','arts and Entertainment'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9919,96 +9923,6 @@ export default function TopWebsite() {
       "curr_month_visits": 26397454.1348853,
       "unique_users": 4098387.60689451,
       "pages_per_visit": 2.97556099857748
-    },
-    {
-      "global_rank": 12254,
-      "category_rank": 124,
-      "domain": "ragnet.co.jp",
-      "category": "Arts_and_Entertainment/Music",
-      "avg_month_visits": 5287010.06435108,
-      "curr_month_visits": 5287010.06435108,
-      "unique_users": 3610989.97613494,
-      "pages_per_visit": 3.29356370959443
-    },
-    {
-      "global_rank": 143176,
-      "category_rank": 125,
-      "domain": "bunkamura.co.jp",
-      "category": "Arts_and_Entertainment/Performing_Arts",
-      "avg_month_visits": 341965.583169669,
-      "curr_month_visits": 341965.583169669,
-      "unique_users": 194902.802734215,
-      "pages_per_visit": 3.22320983195638
-    },
-    {
-      "global_rank": 12273,
-      "category_rank": 125,
-      "domain": "beatport.com",
-      "category": "Arts_and_Entertainment/Music",
-      "avg_month_visits": 4063978.30631192,
-      "curr_month_visits": 4063978.30631192,
-      "unique_users": 1382764.59545836,
-      "pages_per_visit": 6.11422967457924
-    },
-    {
-      "global_rank": 15909,
-      "category_rank": 125,
-      "domain": "reedsy.com",
-      "category": "Arts_and_Entertainment/Books_and_Literature",
-      "avg_month_visits": 3791195.70005895,
-      "curr_month_visits": 3791195.70005895,
-      "unique_users": 1656832.45300541,
-      "pages_per_visit": 3.92828180897342
-    },
-    {
-      "global_rank": 2751,
-      "category_rank": 125,
-      "domain": "iprima.cz",
-      "category": "Arts_and_Entertainment/TV_Movies_and_Streaming",
-      "avg_month_visits": 23802716.2814238,
-      "curr_month_visits": 23802716.2814238,
-      "unique_users": 5981824.01716506,
-      "pages_per_visit": 2.81379391606718
-    },
-    {
-      "global_rank": 76031,
-      "category_rank": 125,
-      "domain": "facciabuco.com",
-      "category": "Arts_and_Entertainment/Humor",
-      "avg_month_visits": 1040178.77538619,
-      "curr_month_visits": 1040178.77538619,
-      "unique_users": 224013.418183484,
-      "pages_per_visit": 3.80363477777678
-    },
-    {
-      "global_rank": 161704,
-      "category_rank": 125,
-      "domain": "pasundanekspres.id",
-      "category": "Arts_and_Entertainment/Visual_Arts_and_Design",
-      "avg_month_visits": 216365.229266394,
-      "curr_month_visits": 216365.229266394,
-      "unique_users": 134307.970724949,
-      "pages_per_visit": 1.63162955075029
-    },
-    {
-      "global_rank": 9778,
-      "category_rank": 125,
-      "domain": "shogakukan.co.jp",
-      "category": "Arts_and_Entertainment/Arts_and_Entertainment",
-      "avg_month_visits": 6865714.09168097,
-      "curr_month_visits": 6865714.09168097,
-      "unique_users": 4210590.10256231,
-      "pages_per_visit": 3.15567595322428
-    },
-    {
-      "global_rank": 4369,
-      "category_rank": 125,
-      "domain": "mangakoma01.net",
-      "category": "Arts_and_Entertainment/Animation_and_Comics",
-      "avg_month_visits": 16075787.3763666,
-      "curr_month_visits": 16075787.3763666,
-      "unique_users": 1574410.73344681,
-      "pages_per_visit": 4.57355310572136
     }
   ]
 

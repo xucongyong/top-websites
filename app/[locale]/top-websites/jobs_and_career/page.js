@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Jobs and Career Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Jobs and Career'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9880,136 +9884,6 @@ export default function TopWebsite() {
       "unique_users": 40924.7693568275,
       "pages_per_visit": 5.02922420699359
     },
-    {
-      "global_rank": 340289,
-      "category_rank": 345,
-      "domain": "pieare.com",
-      "category": "Jobs_and_Career/Human_Resources",
-      "avg_month_visits": 118355.341971314,
-      "curr_month_visits": 118355.341971314,
-      "unique_users": 3822.31532036769,
-      "pages_per_visit": 7.46792386907098
-    },
-    {
-      "global_rank": 294643,
-      "category_rank": 345,
-      "domain": "govtjobs4u.in",
-      "category": "Jobs_and_Career/Jobs_and_Career",
-      "avg_month_visits": 120420.138799912,
-      "curr_month_visits": 120420.138799912,
-      "unique_users": 47018.95446464,
-      "pages_per_visit": 3.25689554633148
-    },
-    {
-      "global_rank": 28810,
-      "category_rank": 345,
-      "domain": "spboss.in",
-      "category": "Jobs_and_Career",
-      "avg_month_visits": 3462768.80655648,
-      "curr_month_visits": 3462768.80655648,
-      "unique_users": 269000.717953906,
-      "pages_per_visit": 3.04471613954905
-    },
-    {
-      "global_rank": 31973,
-      "category_rank": 345,
-      "domain": "employment.org",
-      "category": "Jobs_and_Career/Jobs_and_Employment",
-      "avg_month_visits": 1909983.56368738,
-      "curr_month_visits": 1909983.56368738,
-      "unique_users": 1042033.78501311,
-      "pages_per_visit": 3.08043701155563
-    },
-    {
-      "global_rank": 32047,
-      "category_rank": 346,
-      "domain": "topmate.io",
-      "category": "Jobs_and_Career/Jobs_and_Employment",
-      "avg_month_visits": 2295761.03443872,
-      "curr_month_visits": 2295761.03443872,
-      "unique_users": 1002011.34960669,
-      "pages_per_visit": 3.03632753188025
-    },
-    {
-      "global_rank": 296142,
-      "category_rank": 346,
-      "domain": "career.hkust.edu.hk",
-      "category": "Jobs_and_Career/Jobs_and_Career",
-      "avg_month_visits": 111080.349542892,
-      "curr_month_visits": 111080.349542892,
-      "unique_users": 30436.1676207993,
-      "pages_per_visit": 6.90114775480793
-    },
-    {
-      "global_rank": 340654,
-      "category_rank": 346,
-      "domain": "hackingthecaseinterview.com",
-      "category": "Jobs_and_Career/Human_Resources",
-      "avg_month_visits": 174969.282890217,
-      "curr_month_visits": 174969.282890217,
-      "unique_users": 82295.2434906208,
-      "pages_per_visit": 1.70680617070298
-    },
-    {
-      "global_rank": 342622,
-      "category_rank": 347,
-      "domain": "placementdrive.in",
-      "category": "Jobs_and_Career/Human_Resources",
-      "avg_month_visits": 116329.793374457,
-      "curr_month_visits": 116329.793374457,
-      "unique_users": 55997.2237467962,
-      "pages_per_visit": 2.46246485464939
-    },
-    {
-      "global_rank": 296948,
-      "category_rank": 347,
-      "domain": "jobs.ford.com",
-      "category": "Jobs_and_Career/Jobs_and_Career",
-      "avg_month_visits": 105019.72299014,
-      "curr_month_visits": 105019.72299014,
-      "unique_users": 63587.6616960028,
-      "pages_per_visit": 5.60760683886679
-    },
-    {
-      "global_rank": 28869,
-      "category_rank": 348,
-      "domain": "jobscan.co",
-      "category": "Jobs_and_Career",
-      "avg_month_visits": 2486848.90164068,
-      "curr_month_visits": 2486848.90164068,
-      "unique_users": 1265016.24281573,
-      "pages_per_visit": 3.85979212309017
-    },
-    {
-      "global_rank": 343456,
-      "category_rank": 348,
-      "domain": "careers.bdo.co.uk",
-      "category": "Jobs_and_Career/Human_Resources",
-      "avg_month_visits": 116757.917576323,
-      "curr_month_visits": 116757.917576323,
-      "unique_users": 63182.7774053616,
-      "pages_per_visit": 2.6180404654231
-    },
-    {
-      "global_rank": 32367,
-      "category_rank": 348,
-      "domain": "national-id.gov.ph",
-      "category": "Jobs_and_Career/Jobs_and_Employment",
-      "avg_month_visits": 1671778.08099578,
-      "curr_month_visits": 1671778.08099578,
-      "unique_users": 868351.329475141,
-      "pages_per_visit": 4.52807044196583
-    },
-    {
-      "global_rank": 300349,
-      "category_rank": 348,
-      "domain": "ddiworld.com",
-      "category": "Jobs_and_Career/Jobs_and_Career",
-      "avg_month_visits": 117888.763208818,
-      "curr_month_visits": 117888.763208818,
-      "unique_users": 58484.0147501864,
-      "pages_per_visit": 3.678527162781
-    }
   ]
   
   const formatVisits = (visits) => {

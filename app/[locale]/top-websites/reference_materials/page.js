@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Reference Materials Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Reference Materials'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9980,36 +9984,6 @@ export default function TopWebsite() {
       "unique_users": 39332.1727294956,
       "pages_per_visit": 3.7514547224708
     },
-    {
-      "global_rank": 288992,
-      "category_rank": 387,
-      "domain": "sisinmaru.com",
-      "category": "Reference_Materials/Reference_Materials",
-      "avg_month_visits": 221906.228139339,
-      "curr_month_visits": 221906.228139339,
-      "unique_users": 33808.400459771,
-      "pages_per_visit": 1.92724650337232
-    },
-    {
-      "global_rank": 324823,
-      "category_rank": 387,
-      "domain": "places-in-the-world.com",
-      "category": "Reference_Materials/Reference_Materials",
-      "avg_month_visits": 120264.806376246,
-      "curr_month_visits": 120264.806376246,
-      "unique_users": 64376.2555755701,
-      "pages_per_visit": 1.82106413146941
-    },
-    {
-      "global_rank": 118835,
-      "category_rank": 387,
-      "domain": "nihongomaster.com",
-      "category": "Reference_Materials/Dictionaries_and_Encyclopedias",
-      "avg_month_visits": 626390.603664075,
-      "curr_month_visits": 626390.603664075,
-      "unique_users": 357950.066083515,
-      "pages_per_visit": 1.56820664339831
-    }
   ]
   
   const formatVisits = (visits) => {

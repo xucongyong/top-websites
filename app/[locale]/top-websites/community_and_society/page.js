@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top community and society services Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','community and society'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9919,96 +9923,6 @@ export default function TopWebsite() {
       "curr_month_visits": 111422.422178461,
       "unique_users": 54118.6441438647,
       "pages_per_visit": 1.23564065893794
-    },
-    {
-      "global_rank": 130092,
-      "category_rank": 157,
-      "domain": "tpbay.site",
-      "category": "Community_and_Society/Philanthropy",
-      "avg_month_visits": 221944.729362497,
-      "curr_month_visits": 221944.729362497,
-      "unique_users": 97454.9360007784,
-      "pages_per_visit": 4.70838222665928
-    },
-    {
-      "global_rank": 44558,
-      "category_rank": 157,
-      "domain": "thaiflirting.com",
-      "category": "Community_and_Society/Romance_and_Relationships",
-      "avg_month_visits": 547144.420553051,
-      "curr_month_visits": 547144.420553051,
-      "unique_users": 81741.2832024729,
-      "pages_per_visit": 31.5192082725332
-    },
-    {
-      "global_rank": 843398,
-      "category_rank": 157,
-      "domain": "rfsl.se",
-      "category": "Community_and_Society/LGBTQ",
-      "avg_month_visits": 37613.6644051966,
-      "curr_month_visits": 37613.6644051966,
-      "unique_users": 18912.0386898754,
-      "pages_per_visit": 1.98988490362575
-    },
-    {
-      "global_rank": 44659,
-      "category_rank": 158,
-      "domain": "sugardaddy.com",
-      "category": "Community_and_Society/Romance_and_Relationships",
-      "avg_month_visits": 1020343.29186708,
-      "curr_month_visits": 1020343.29186708,
-      "unique_users": 269360.904382914,
-      "pages_per_visit": 9.6109369018918
-    },
-    {
-      "global_rank": 130684,
-      "category_rank": 158,
-      "domain": "ifrc.org",
-      "category": "Community_and_Society/Philanthropy",
-      "avg_month_visits": 458747.253976932,
-      "curr_month_visits": 458747.253976932,
-      "unique_users": 232461.60341965,
-      "pages_per_visit": 2.140723331863
-    },
-    {
-      "global_rank": 861785,
-      "category_rank": 158,
-      "domain": "polyphilia.blog",
-      "category": "Community_and_Society/LGBTQ",
-      "avg_month_visits": 26890.4039471594,
-      "curr_month_visits": 26890.4039471594,
-      "unique_users": 13921.2857347679,
-      "pages_per_visit": 2.14973482189659
-    },
-    {
-      "global_rank": 322499,
-      "category_rank": 158,
-      "domain": "energizedhealth.com",
-      "category": "Community_and_Society/Decease",
-      "avg_month_visits": 141760.36234904,
-      "curr_month_visits": 141760.36234904,
-      "unique_users": 30296.9122897097,
-      "pages_per_visit": 4.06351782627196
-    },
-    {
-      "global_rank": 349093,
-      "category_rank": 158,
-      "domain": "beguschii-v-labirinte.ru",
-      "category": "Community_and_Society/Holidays_and_Seasonal_Events",
-      "avg_month_visits": 150337.459665783,
-      "curr_month_visits": 150337.459665783,
-      "unique_users": 63802.2101909296,
-      "pages_per_visit": 1.30857099859981
-    },
-    {
-      "global_rank": 33197,
-      "category_rank": 158,
-      "domain": "intouch.org",
-      "category": "Community_and_Society/Faith_and_Beliefs",
-      "avg_month_visits": 2314633.86718376,
-      "curr_month_visits": 2314633.86718376,
-      "unique_users": 409915.797327973,
-      "pages_per_visit": 2.32847203031272
     }
   ]
 

@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top food and drink Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','food and drink'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9889,126 +9893,6 @@ export default function TopWebsite() {
       "curr_month_visits": 2677810.45048293,
       "unique_users": 1600851.62940082,
       "pages_per_visit": 2.17960219883745
-    },
-    {
-      "global_rank": 517839,
-      "category_rank": 165,
-      "domain": "marystestkitchen.com",
-      "category": "Food_and_Drink/Vegetarian_and_Vegan",
-      "avg_month_visits": 89796.0611548024,
-      "curr_month_visits": 89796.0611548024,
-      "unique_users": 43879.5506967889,
-      "pages_per_visit": 1.55711378998412
-    },
-    {
-      "global_rank": 519261,
-      "category_rank": 166,
-      "domain": "fitcoapp.net",
-      "category": "Food_and_Drink/Vegetarian_and_Vegan",
-      "avg_month_visits": 78091.2465013912,
-      "curr_month_visits": 78091.2465013912,
-      "unique_users": 13391.6754669304,
-      "pages_per_visit": 4.94062273436296
-    },
-    {
-      "global_rank": 137691,
-      "category_rank": 166,
-      "domain": "torani.com",
-      "category": "Food_and_Drink/Beverages",
-      "avg_month_visits": 266430.426423581,
-      "curr_month_visits": 266430.426423581,
-      "unique_users": 166642.29437881,
-      "pages_per_visit": 5.14992023228777
-    },
-    {
-      "global_rank": 26207,
-      "category_rank": 166,
-      "domain": "mcdelivery.com.tw",
-      "category": "Food_and_Drink/Restaurants_and_Delivery",
-      "avg_month_visits": 1389646.13884026,
-      "curr_month_visits": 1389646.13884026,
-      "unique_users": 912805.027486721,
-      "pages_per_visit": 5.13517657914371
-    },
-    {
-      "global_rank": 23095,
-      "category_rank": 166,
-      "domain": "recetasgratis.net",
-      "category": "Food_and_Drink/Cooking_and_Recipes",
-      "avg_month_visits": 3648183.73150129,
-      "curr_month_visits": 3648183.73150129,
-      "unique_users": 2297283.99761773,
-      "pages_per_visit": 1.90218077948706
-    },
-    {
-      "global_rank": 41789,
-      "category_rank": 166,
-      "domain": "raleys.com",
-      "category": "Food_and_Drink/Groceries",
-      "avg_month_visits": 1131254.20086706,
-      "curr_month_visits": 1131254.20086706,
-      "unique_users": 506094.205127022,
-      "pages_per_visit": 4.9980697480279
-    },
-    {
-      "global_rank": 29772,
-      "category_rank": 166,
-      "domain": "cocokara-next.com",
-      "category": "Food_and_Drink/Food_and_Drink",
-      "avg_month_visits": 2816866.75596199,
-      "curr_month_visits": 2816866.75596199,
-      "unique_users": 2022065.32500189,
-      "pages_per_visit": 1.92632583058777
-    },
-    {
-      "global_rank": 26446,
-      "category_rank": 167,
-      "domain": "gopuff.com",
-      "category": "Food_and_Drink/Restaurants_and_Delivery",
-      "avg_month_visits": 1771456.46246461,
-      "curr_month_visits": 1771456.46246461,
-      "unique_users": 809866.987634671,
-      "pages_per_visit": 5.57716335778802
-    },
-    {
-      "global_rank": 519590,
-      "category_rank": 167,
-      "domain": "isshappy.de",
-      "category": "Food_and_Drink/Vegetarian_and_Vegan",
-      "avg_month_visits": 77003.9145635493,
-      "curr_month_visits": 77003.9145635493,
-      "unique_users": 47465.4579636333,
-      "pages_per_visit": 1.64969387984485
-    },
-    {
-      "global_rank": 41927,
-      "category_rank": 167,
-      "domain": "newyorkpizza.nl",
-      "category": "Food_and_Drink/Groceries",
-      "avg_month_visits": 1178746.78616982,
-      "curr_month_visits": 1178746.78616982,
-      "unique_users": 575464.447036017,
-      "pages_per_visit": 5.42063727592577
-    },
-    {
-      "global_rank": 29908,
-      "category_rank": 167,
-      "domain": "homechef.com",
-      "category": "Food_and_Drink/Food_and_Drink",
-      "avg_month_visits": 2146666.83933531,
-      "curr_month_visits": 2146666.83933531,
-      "unique_users": 1221267.03301637,
-      "pages_per_visit": 3.757863998413
-    },
-    {
-      "global_rank": 23170,
-      "category_rank": 167,
-      "domain": "gotoshop.ua",
-      "category": "Food_and_Drink/Cooking_and_Recipes",
-      "avg_month_visits": 2741841.67189702,
-      "curr_month_visits": 2741841.67189702,
-      "unique_users": 777846.106773484,
-      "pages_per_visit": 3.47541743440087
     }
   ]
   

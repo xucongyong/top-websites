@@ -3,8 +3,12 @@ import {Top_Website_Categories} from '@/lib/top_websites';
 import {useLocale, useTranslations} from 'next-intl';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top Pets and Animals Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','Pets and Animals'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9982,36 +9986,6 @@ export default function TopWebsite() {
       "unique_users": 244532.277185389,
       "pages_per_visit": 2.66935204098596
     },
-    {
-      "global_rank": 505532,
-      "category_rank": 204,
-      "domain": "juwel-aquarium.de",
-      "category": "Pets_and_Animals/Horses",
-      "avg_month_visits": 64427.4301376184,
-      "curr_month_visits": 64427.4301376184,
-      "unique_users": 34822.6903337555,
-      "pages_per_visit": 3.11569264094423
-    },
-    {
-      "global_rank": 368159,
-      "category_rank": 205,
-      "domain": "unicornvape.com",
-      "category": "Pets_and_Animals",
-      "avg_month_visits": 66251.2793084296,
-      "curr_month_visits": 66251.2793084296,
-      "unique_users": 24919.0829087559,
-      "pages_per_visit": 7.09574781663098
-    },
-    {
-      "global_rank": 114619,
-      "category_rank": 205,
-      "domain": "agrocampo.com.co",
-      "category": "Pets_and_Animals/Pets",
-      "avg_month_visits": 423096.07499505,
-      "curr_month_visits": 423096.07499505,
-      "unique_users": 252967.889841392,
-      "pages_per_visit": 3.21320114582921
-    }
   ]
   
   const formatVisits = (visits) => {

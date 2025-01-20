@@ -8993,24 +8993,7 @@ export default function TopWebsite() {
       "unique_users": 14143451.9519482,
       "pages_per_visit": 4.09643703378527
     },
-    {
-      "global_rank": 1116,
-      "domain": "auto.ru",
-      "category": "Vehicles/Vehicles",
-      "avg_month_visits": 31566575.119074,
-      "curr_month_visits": 31566575.119074,
-      "unique_users": 12005235.9264981,
-      "pages_per_visit": 9.46266044322074
-    },
-    {
-      "global_rank": 1117,
-      "domain": "mercadolibre.cl",
-      "category": "E-commerce_and_Shopping/Marketplace",
-      "avg_month_visits": 33242118.6937689,
-      "curr_month_visits": 33242118.6937689,
-      "unique_users": 10581958.8733931,
-      "pages_per_visit": 7.28885383735226
-    }
+    
   ]
 
 function formatVisits(visits) {

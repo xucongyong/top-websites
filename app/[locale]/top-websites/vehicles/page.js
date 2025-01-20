@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top computers electronics and technology Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','computers electronics and technology'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9990,26 +9994,7 @@ export default function TopWebsite() {
       "unique_users": 22694.8307591713,
       "pages_per_visit": 2.90599381355804
     },
-    {
-      "global_rank": 118264,
-      "category_rank": 143,
-      "domain": "cyclenews.com",
-      "category": "Vehicles/Motorcycles",
-      "avg_month_visits": 361270.629201791,
-      "curr_month_visits": 361270.629201791,
-      "unique_users": 166418.947227387,
-      "pages_per_visit": 4.15983127169853
-    },
-    {
-      "global_rank": 161099,
-      "category_rank": 143,
-      "domain": "vehiclecue.it",
-      "category": "Vehicles/Motorsports",
-      "avg_month_visits": 283546.273224914,
-      "curr_month_visits": 283546.273224914,
-      "unique_users": 203566.207575837,
-      "pages_per_visit": 1.48535827759616
-    }
+    
   ]
   
   const formatVisits = (visits) => {

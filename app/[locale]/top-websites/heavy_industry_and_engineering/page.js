@@ -2,8 +2,12 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top heavy industry and engineering Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','heavy industry and engineering'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
 
 
@@ -9869,146 +9873,6 @@ export default function TopWebsite() {
       "curr_month_visits": 139151.525562692,
       "unique_users": 69202.3315097229,
       "pages_per_visit": 3.11152551041091
-    },
-    {
-      "global_rank": 627605,
-      "category_rank": 111,
-      "domain": "enovationcontrols.com",
-      "category": "Heavy_Industry_and_Engineering/Heavy_Industry_and_Engineering",
-      "avg_month_visits": 52351.6793985916,
-      "curr_month_visits": 52351.6793985916,
-      "unique_users": 16053.8338900036,
-      "pages_per_visit": 9.29402371650476
-    },
-    {
-      "global_rank": 506335,
-      "category_rank": 111,
-      "domain": "navantia.es",
-      "category": "Heavy_Industry_and_Engineering/Aerospace_and_Defense",
-      "avg_month_visits": 71425.0378624751,
-      "curr_month_visits": 71425.0378624751,
-      "unique_users": 26979.7473592227,
-      "pages_per_visit": 4.07068114164194
-    },
-    {
-      "global_rank": 206533,
-      "category_rank": 111,
-      "domain": "crecia.co.jp",
-      "category": "Heavy_Industry_and_Engineering/Metals_and_Mining",
-      "avg_month_visits": 119043.825597588,
-      "curr_month_visits": 119043.825597588,
-      "unique_users": 51915.6050427259,
-      "pages_per_visit": 1.78342851665278
-    },
-    {
-      "global_rank": 44657,
-      "category_rank": 111,
-      "domain": "edp.pt",
-      "category": "Heavy_Industry_and_Engineering/Energy_Industry",
-      "avg_month_visits": 1076304.5013163,
-      "curr_month_visits": 1076304.5013163,
-      "unique_users": 507592.670680925,
-      "pages_per_visit": 5.23650731501058
-    },
-    {
-      "global_rank": 60908,
-      "category_rank": 111,
-      "domain": "bqecore.com",
-      "category": "Heavy_Industry_and_Engineering/Construction_and_Maintenance",
-      "avg_month_visits": 847512.766681265,
-      "curr_month_visits": 847512.766681265,
-      "unique_users": 121919.109699265,
-      "pages_per_visit": 5.60637079561493
-    },
-    {
-      "global_rank": 149637,
-      "category_rank": 111,
-      "domain": "agrinews.co.jp",
-      "category": "Heavy_Industry_and_Engineering/Agriculture",
-      "avg_month_visits": 446126.864677419,
-      "curr_month_visits": 446126.864677419,
-      "unique_users": 284946.98522645,
-      "pages_per_visit": 2.23923220703545
-    },
-    {
-      "global_rank": 2682166,
-      "category_rank": 111,
-      "domain": "cwts.ca",
-      "category": "Heavy_Industry_and_Engineering/Waste_Water_and_Environmental",
-      "avg_month_visits": 7979.86879412633,
-      "curr_month_visits": 7979.86879412633,
-      "unique_users": 4319.60891976402,
-      "pages_per_visit": 1.99660688818872
-    },
-    {
-      "global_rank": 249200,
-      "category_rank": 111,
-      "domain": "krasko.ru",
-      "category": "Heavy_Industry_and_Engineering/Chemical_Industry",
-      "avg_month_visits": 265159.122189436,
-      "curr_month_visits": 265159.122189436,
-      "unique_users": 171042.24508109,
-      "pages_per_visit": 1.54620442398144
-    },
-    {
-      "global_rank": 206700,
-      "category_rank": 112,
-      "domain": "ternium.com",
-      "category": "Heavy_Industry_and_Engineering/Metals_and_Mining",
-      "avg_month_visits": 237773.258435554,
-      "curr_month_visits": 237773.258435554,
-      "unique_users": 110735.192036157,
-      "pages_per_visit": 2.79060113108387
-    },
-    {
-      "global_rank": 150572,
-      "category_rank": 112,
-      "domain": "shop.kubotausa.com",
-      "category": "Heavy_Industry_and_Engineering/Agriculture",
-      "avg_month_visits": 230626.412415647,
-      "curr_month_visits": 230626.412415647,
-      "unique_users": 126425.071849951,
-      "pages_per_visit": 5.13601716351524
-    },
-    {
-      "global_rank": 60978,
-      "category_rank": 112,
-      "domain": "pecsb.it",
-      "category": "Heavy_Industry_and_Engineering/Construction_and_Maintenance",
-      "avg_month_visits": 1191391.23171529,
-      "curr_month_visits": 1191391.23171529,
-      "unique_users": 204840.888910665,
-      "pages_per_visit": 2.19124400897563
-    },
-    {
-      "global_rank": 44767,
-      "category_rank": 112,
-      "domain": "hellowatt.fr",
-      "category": "Heavy_Industry_and_Engineering/Energy_Industry",
-      "avg_month_visits": 1409145.12605189,
-      "curr_month_visits": 1409145.12605189,
-      "unique_users": 692921.767786807,
-      "pages_per_visit": 1.8426232448136
-    },
-    {
-      "global_rank": 2686028,
-      "category_rank": 112,
-      "domain": "truemobilehomes.com",
-      "category": "Heavy_Industry_and_Engineering/Waste_Water_and_Environmental",
-      "avg_month_visits": 8900.81065789369,
-      "curr_month_visits": 8900.81065789369,
-      "unique_users": 5015.69599749876,
-      "pages_per_visit": 2.00124679013891
-    },
-    {
-      "global_rank": 506651,
-      "category_rank": 112,
-      "domain": "uacrussia.ru",
-      "category": "Heavy_Industry_and_Engineering/Aerospace_and_Defense",
-      "avg_month_visits": 69587.2844007169,
-      "curr_month_visits": 69587.2844007169,
-      "unique_users": 42726.8669074892,
-      "pages_per_visit": 2.11165319917296
     }
   ]
   

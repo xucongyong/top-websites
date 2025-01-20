@@ -2,11 +2,13 @@
 import {Top_Website_Categories} from '@/lib/top_websites';
 export const runtime = 'edge';
 export const metadata = {
-  title: 'Top  Websites Ranking in the World, January 2025',
-  description: 'The top 1000 most visited  websites in the World by Ahrefs organic search traffic estimates. Updated monthly. January 2025',
+  title: 'Top ecommerce and shopping Websites Ranking in the World, 2025',
+  description: 'The top 1000 most visited entertainment websites in the World by Ahrefs organic search traffic estimates. Updated monthly. 2025',
+  keywords: ['Top Websites', 'Top Websites Ranking','ecommerce and shopping'],
+  authors: [
+    { name: 'hackX', url: 'https://www.xucongyong.com' }
+  ]
 }
-
-
 export default function TopWebsite() {
 
   const ecommerce_and_shopping = [
@@ -4909,146 +4911,6 @@ export default function TopWebsite() {
       "curr_month_visits": 2297291.91405676,
       "unique_users": 932809.517193554,
       "pages_per_visit": 1.95796458594349
-    },
-    {
-      "global_rank": 32882,
-      "category_rank": 676,
-      "domain": "litt.ly",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2322559.41368613,
-      "curr_month_visits": 2322559.41368613,
-      "unique_users": 1445095.5144901,
-      "pages_per_visit": 1.78777328776147
-    },
-    {
-      "global_rank": 33531,
-      "category_rank": 686,
-      "domain": "inlcorp.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 3610274.35889468,
-      "curr_month_visits": 3610274.35889468,
-      "unique_users": 1833574.51090778,
-      "pages_per_visit": 1.05863915518172
-    },
-    {
-      "global_rank": 33627,
-      "category_rank": 688,
-      "domain": "salehere.co.th",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2531903.63653163,
-      "curr_month_visits": 2531903.63653163,
-      "unique_users": 1886209.39816151,
-      "pages_per_visit": 1.53699066278586
-    },
-    {
-      "global_rank": 33783,
-      "category_rank": 693,
-      "domain": "celeritastransporte.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2211696.79380012,
-      "curr_month_visits": 2211696.79380012,
-      "unique_users": 756614.962624804,
-      "pages_per_visit": 2.72030510203428
-    },
-    {
-      "global_rank": 34122,
-      "category_rank": 697,
-      "domain": "chiaki.vn",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2760357.38481189,
-      "curr_month_visits": 2760357.38481189,
-      "unique_users": 1948532.65380432,
-      "pages_per_visit": 1.7332217490305
-    },
-    {
-      "global_rank": 34506,
-      "category_rank": 703,
-      "domain": "dioguinho.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2599646.64439346,
-      "curr_month_visits": 2599646.64439346,
-      "unique_users": 566331.02486185,
-      "pages_per_visit": 2.20147987184931
-    },
-    {
-      "global_rank": 34606,
-      "category_rank": 705,
-      "domain": "shoppinglogin.kr",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 3339075.21931447,
-      "curr_month_visits": 3339075.21931447,
-      "unique_users": 2181992.34572504,
-      "pages_per_visit": 1.30601361951792
-    },
-    {
-      "global_rank": 36988,
-      "category_rank": 757,
-      "domain": "myhes.de",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2277889.71782946,
-      "curr_month_visits": 2277889.71782946,
-      "unique_users": 603593.100025335,
-      "pages_per_visit": 1.73033229074264
-    },
-    {
-      "global_rank": 39817,
-      "category_rank": 818,
-      "domain": "puliodays.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2844751.83782948,
-      "curr_month_visits": 2844751.83782948,
-      "unique_users": 1225059.33938794,
-      "pages_per_visit": 1.72295999165954
-    },
-    {
-      "global_rank": 40214,
-      "category_rank": 825,
-      "domain": "dailytodaily.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2811297.54588254,
-      "curr_month_visits": 2811297.54588254,
-      "unique_users": 1871041.67972489,
-      "pages_per_visit": 1.39966656371409
-    },
-    {
-      "global_rank": 43819,
-      "category_rank": 899,
-      "domain": "blue.cl",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2515244.05797074,
-      "curr_month_visits": 2515244.05797074,
-      "unique_users": 716414.026682485,
-      "pages_per_visit": 1.81098057193972
-    },
-    {
-      "global_rank": 45292,
-      "category_rank": 925,
-      "domain": "fireboltt.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2666622.78133323,
-      "curr_month_visits": 2666622.78133323,
-      "unique_users": 1225395.55409696,
-      "pages_per_visit": 4.06145072157339
-    },
-    {
-      "global_rank": 46363,
-      "category_rank": 951,
-      "domain": "blueday.club",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2333734.84310522,
-      "curr_month_visits": 2333734.84310522,
-      "unique_users": 94412.4080447982,
-      "pages_per_visit": 6.53156473448124
-    },
-    {
-      "global_rank": 155919,
-      "category_rank": 3119,
-      "domain": "install1check.com",
-      "category": "E-commerce_and_Shopping/E-commerce_and_Shopping",
-      "avg_month_visits": 2225791.49984482,
-      "curr_month_visits": 2225791.49984482,
-      "unique_users": 1502595.50968322,
-      "pages_per_visit": 1.99681997359696
     }
   ]
   

@@ -16,8 +16,8 @@ const inter = Inter({
  
 export const metadata: Metadata = {
   title: {
-    default: 'nextjs ',
-    template: '%s | template'
+    default: 'top websites',
+    template: '%s |'
   },
   description: 'Open',
 }
