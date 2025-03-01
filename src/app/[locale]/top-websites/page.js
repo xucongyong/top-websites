@@ -9028,7 +9028,7 @@ function formatVisits(visits) {
         <tbody>
         {global_rank_all.map((item, index) => (
             <tr key={item.domain}>
-                <td className="px-4 py-2 border-t">{index + 1}</td> {/* Use index + 1 for item number */}
+                <td className="px-4 py-2 border-t">{index + 1}</td>
                 <td className="px-4 py-2 border-t">{item.domain}</td>
                 <td className="px-4 py-2 border-t">{formatVisits(item.avg_month_visits)}</td>
                 <td className="px-4 py-2 border-t">{formatVisits(item.curr_month_visits)}</td>
