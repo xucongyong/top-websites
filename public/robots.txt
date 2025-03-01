@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: www.xucongyong.com
-
-# Sitemaps
-Sitemap: www.xucongyong.com/sitemap.xml

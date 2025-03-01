@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+    a {
+        @apply text-blue-600 hover:text-blue-500 dark:text-sky-400;
+    }
+    h1 {
+        @apply dark:text-gray-300 text-3xl;
+    }
+    h2 {
+        @apply text-2xl;
+    }
+    h3 {
+        @apply text-xl;
+    }
+}
