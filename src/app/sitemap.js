@@ -1,12 +1,10 @@
 import {DOMAINURL} from '@/env'
-import { GithubListContents } from "@/lib/github";
 
-export default async function sitemap() {
+export default function sitemap() {
     var sitemap_data =[]
     
     //articles sitemap
     var locales = ['en']
-    var pages=[]
     const categories = {
       "all": "",
       "Arts and Entertainment": "arts_and_entertainment",
@@ -35,22 +33,18 @@ export default async function sitemap() {
     };
     for (let i = 0; i < locales.length; i++) {
       const locale = locales[i];
-      Object.entries(categories).forEach(([key, value]) => {
+      Object.entries(categories).forEach(([_key, value]) => {
         sitemap_data.push(
           {
               url: `${DOMAINURL}/${locale}/top-websites/${value}`,
               lastModified: new Date().toISOString(),
               priority: 0.8,
               changeFrequency: 'monthly',
+              key:_key
             }
       )
       });
     }
      
-
-
-
-
-
     return sitemap_data
   }

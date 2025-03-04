@@ -1,6 +1,5 @@
 
 import {Top_Website_Categories} from '@/lib/top_websites';
-import {useLocale, useTranslations} from 'next-intl';
 
 export const metadata = {
   title: 'Top Pets and Animals Websites Ranking in the World, 2025',
