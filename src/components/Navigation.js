@@ -8,10 +8,6 @@ import Link from 'next/link';
 export const Navbar = (params) => {
   const navItems = [
     { path: `/${params.locale}`, label: 'Home' },
-    { path: `/${params.locale}/decision`, label: 'Decision' },
-    { path: `/${params.locale}/resources`, label: 'Resources' },
-    { path: `/${params.locale}/articles`, label: 'Articles' },
-    { path: `/${params.locale}/pricing`, label: 'Pricing' },
   ];
   const renderNavItems = () => (
     navItems.map((item,index) => (

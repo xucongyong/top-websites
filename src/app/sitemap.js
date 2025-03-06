@@ -33,18 +33,15 @@ export default function sitemap() {
     };
     for (let i = 0; i < locales.length; i++) {
       const locale = locales[i];
-      Object.entries(categories).forEach(([_key, value]) => {
-        sitemap_data.push(
-          {
-              url: `${DOMAINURL}/${locale}/top-websites/${value}`,
-              lastModified: new Date().toISOString(),
-              priority: 0.8,
-              changeFrequency: 'monthly',
-              key:_key
-            }
-      )
+      Object.entries(categories).forEach(([, value]) => { // 使用空位符忽略第一个参数
+        sitemap_data.push({
+          url: `${DOMAINURL}/${locale}/top-websites/${value}`,
+          lastModified: new Date().toISOString(),
+          priority: 0.8,
+          changeFrequency: 'monthly',
+        });
       });
     }
      
-    return sitemap_data
-  }
+    return sitemap_data; // 添加分号
+}
