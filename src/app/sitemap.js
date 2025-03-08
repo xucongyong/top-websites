@@ -4,7 +4,7 @@ export default function sitemap() {
     var sitemap_data =[]
     
     //articles sitemap
-    var locales = ['en']
+    var locales = ['']
     const categories = {
       "all": "",
       "Arts and Entertainment": "arts_and_entertainment",
@@ -35,7 +35,7 @@ export default function sitemap() {
       const locale = locales[i];
       Object.entries(categories).forEach(([, value]) => { // 使用空位符忽略第一个参数
         sitemap_data.push({
-          url: `${DOMAINURL}/${locale}/top-websites/${value}`,
+          url: `${DOMAINURL}/${locale}top-websites/${value}`,
           lastModified: new Date().toISOString(),
           priority: 0.8,
           changeFrequency: 'monthly',
