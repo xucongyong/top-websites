@@ -1,8 +1,17 @@
 import {DOMAINURL} from '@/env'
 
 export default function sitemap() {
-    var sitemap_data =[]
-    
+    var sitemap_data =[
+      {
+        url: DOMAINURL,
+        lastModified: new Date(),
+        alternates: {
+          languages: {
+            en: `${DOMAINURL}/`,
+          },
+        },
+      },
+    ]
     //articles sitemap
     var locales = ['']
     const categories = {

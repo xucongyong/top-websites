@@ -1,22 +1,20 @@
 // "use client" 需要在文件顶部添加
-
 import React from 'react';
+import { navItems } from './navItems';
 
 export const Footer = (params) => {
-  const navItems = [
-    { path: `/${params.locale}/`, label: 'Home' },
-    { path: `/${params.locale}/resources`, label: 'Resource' },
-    { path: `/${params.locale}/articles`, label: 'Articles' },
-  ];
+  const items = navItems(params.locale);
   const renderNavItems = () => (
-    navItems.map((item,index) => (
-      <li key={index}> <a
-        key={item.label}
-        href={item.path}
-        className="hover:underline me-4 md:me-6"
-      >
-        {item.label}
-      </a></li>
+    items.map((item, index) => (
+      <li key={index}>
+        <a
+          key={item.label}
+          href={item.path}
+          className="hover:underline me-4 md:me-6"
+        >
+          {item.label}
+        </a>
+      </li>
     ))
   );
   return (
