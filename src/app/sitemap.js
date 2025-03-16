@@ -44,7 +44,7 @@ export default function sitemap() {
       const locale = locales[i];
       Object.entries(categories).forEach(([, value]) => { // 使用空位符忽略第一个参数
         sitemap_data.push({
-          url: `${DOMAINURL}/${locale}top-websites/${value}`,
+          url: `${DOMAINURL}/${locale}${value}`,
           lastModified: new Date().toISOString(),
           priority: 0.8,
           changeFrequency: 'monthly',

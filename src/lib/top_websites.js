@@ -15,7 +15,7 @@ export const Top_Website_Categories = () => {
 
   const handleSelectChange = (event) => {
     const selectedValue = event.target.value;
-    window.location.href = `/${locale}/top-websites/${selectedValue}`; // Adjust the URL path as needed
+    window.location.href = `/${locale}/${selectedValue}`; // Adjust the URL path as needed
   };
 
   
