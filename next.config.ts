@@ -75,10 +75,14 @@ const nextConfig: NextConfig = {
           destination: '/sports',
           permanent: true,
         },
-        
         {
-          source: '/top-websites/finance',
-          destination: '/finance',
+          source: '/top-websites/sports',
+          destination: '/sports',
+          permanent: true,
+        },
+        {
+          source: '/top-websites/hobbies_and_leisure',
+          destination: '/hobbies_and_leisure',
           permanent: true,
         },
         
